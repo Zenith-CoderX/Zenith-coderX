@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" width="1000" height="430" role="img">
+<style>
+.m{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+.s{font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1530"/><stop offset="1" stop-color="#060914"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#6366f1"/><stop offset="1" stop-color="#c084fc"><animate attributeName="stop-color" values="#c084fc;#f472b6;#c084fc" dur="6s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a5f3fc"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="left" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#2e2a7a"/></linearGradient>
+<linearGradient id="right" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#4a1d8f"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#6366f1" stop-opacity=".45"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1a2547" stroke-width="1" opacity=".55"/></pattern>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000" flood-opacity=".55"/></filter>
+</defs>
+<rect width="1000" height="430" rx="24" fill="url(#bg)"/><rect width="1000" height="430" rx="24" fill="url(#grid)"/><rect x=".5" y=".5" width="999" height="429" rx="24" fill="none" stroke="#1d2a50"/>
+<circle cx="661" cy="107" r="2.4" fill="#f472b6" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.0s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="326" cy="302" r="1.2" fill="#6366f1" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.7s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="37" cy="149" r="2.0" fill="#22d3ee" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.3s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="239" cy="362" r="1.2" fill="#6366f1" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.8s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="194" cy="315" r="2.4" fill="#6366f1" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="514" cy="213" r="2.0" fill="#22d3ee" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.8s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="196" cy="369" r="2.0" fill="#22d3ee" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.9s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="100" cy="354" r="1.2" fill="#6366f1" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="4.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="346" cy="236" r="2.0" fill="#a855f7" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.1s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="921" cy="398" r="2.0" fill="#22d3ee" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.5s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="624" cy="227" r="1.6" fill="#6366f1" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.3s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="280" cy="333" r="2.0" fill="#22d3ee" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.0s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="549" cy="94" r="2.4" fill="#a855f7" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="4.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="806" cy="189" r="2.4" fill="#f472b6" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="4.9s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="227" cy="110" r="1.6" fill="#a855f7" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="72" cy="71" r="1.2" fill="#6366f1" opacity=".2"><animate attributeName="opacity" values=".1;.9;.1" dur="3.3s" begin="0.2s" repeatCount="indefinite"/></circle>
+<text x="50" y="52" class="m" font-size="13" fill="#22d3ee" letter-spacing="3">TECH ORBIT</text>
+<g transform="rotate(-10 270 215)">
+<ellipse cx="270" cy="215" rx="110" ry="38" fill="none" stroke="#2a3a6b" stroke-dasharray="3 6"/>
+<g><animateMotion dur="14s" begin="0.0s" repeatCount="indefinite" path="M160,215 a110,38 0 1,1 220,0 a110,38 0 1,1 -220,0"/><circle r="24" fill="#0d1530" stroke="#fb923c" stroke-width="2"/><circle r="30" fill="#fb923c" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#fb923c">HTML</text></g>
+<g><animateMotion dur="14s" begin="-4.7s" repeatCount="indefinite" path="M160,215 a110,38 0 1,1 220,0 a110,38 0 1,1 -220,0"/><circle r="24" fill="#0d1530" stroke="#38bdf8" stroke-width="2"/><circle r="30" fill="#38bdf8" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#38bdf8">CSS</text></g>
+<g><animateMotion dur="14s" begin="-9.3s" repeatCount="indefinite" path="M160,215 a110,38 0 1,1 220,0 a110,38 0 1,1 -220,0"/><circle r="24" fill="#0d1530" stroke="#facc15" stroke-width="2"/><circle r="30" fill="#facc15" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#facc15">JS</text></g>
+<ellipse cx="270" cy="215" rx="175" ry="62" fill="none" stroke="#2a3a6b" stroke-dasharray="3 6"/>
+<g><animateMotion dur="20s" begin="0.0s" repeatCount="indefinite" path="M95,215 a175,62 0 1,1 350,0 a175,62 0 1,1 -350,0"/><circle r="24" fill="#0d1530" stroke="#22d3ee" stroke-width="2"/><circle r="30" fill="#22d3ee" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#22d3ee">React</text></g>
+<g><animateMotion dur="20s" begin="-6.7s" repeatCount="indefinite" path="M95,215 a175,62 0 1,1 350,0 a175,62 0 1,1 -350,0"/><circle r="24" fill="#0d1530" stroke="#f87171" stroke-width="2"/><circle r="30" fill="#f87171" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#f87171">Git</text></g>
+<g><animateMotion dur="20s" begin="-13.3s" repeatCount="indefinite" path="M95,215 a175,62 0 1,1 350,0 a175,62 0 1,1 -350,0"/><circle r="24" fill="#0d1530" stroke="#e2e8f0" stroke-width="2"/><circle r="30" fill="#e2e8f0" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#e2e8f0">GitHub</text></g>
+<ellipse cx="270" cy="215" rx="235" ry="86" fill="none" stroke="#2a3a6b" stroke-dasharray="3 6"/>
+<g><animateMotion dur="28s" begin="0.0s" repeatCount="indefinite" path="M35,215 a235,86 0 1,1 470,0 a235,86 0 1,1 -470,0"/><circle r="24" fill="#0d1530" stroke="#60a5fa" stroke-width="2"/><circle r="30" fill="#60a5fa" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#60a5fa">VSCode</text></g>
+<g><animateMotion dur="28s" begin="-9.3s" repeatCount="indefinite" path="M35,215 a235,86 0 1,1 470,0 a235,86 0 1,1 -470,0"/><circle r="24" fill="#0d1530" stroke="#2dd4bf" stroke-width="2"/><circle r="30" fill="#2dd4bf" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#2dd4bf">Netlify</text></g>
+<g><animateMotion dur="28s" begin="-18.7s" repeatCount="indefinite" path="M35,215 a235,86 0 1,1 470,0 a235,86 0 1,1 -470,0"/><circle r="24" fill="#0d1530" stroke="#f472b6" stroke-width="2"/><circle r="30" fill="#f472b6" opacity=".15" filter="url(#blur)"/><text y="4" text-anchor="middle" class="m" font-size="11" font-weight="700" fill="#f472b6">Figma</text></g>
+</g>
+<circle cx="270" cy="215" r="70" fill="url(#glow)"/>
+<g transform="translate(270,215)"><polygon points="0,-38 33,-19 33,19 0,38 -33,19 -33,-19" fill="#0d1530" stroke="url(#tg)" stroke-width="3"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></polygon>
+<text y="9" text-anchor="middle" class="s" font-size="26" font-weight="800" fill="url(#tg)">SK</text></g>
+<line x1="540" y1="60" x2="540" y2="400" stroke="#1d2a50"/>
+<text x="590" y="52" class="m" font-size="13" fill="#a855f7" letter-spacing="3">LEARNING ROADMAP</text>
+<line x1="590" y1="118" x2="590" y2="316" stroke="url(#tg)" stroke-width="2" stroke-dasharray="4 6"/>
+<g transform="translate(590,118)"><circle cx="0" cy="0" r="9" fill="#22d3ee" opacity=".35"><animate attributeName="r" values="9;18;9" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".4;0;.4" dur="2s" repeatCount="indefinite"/></circle><circle r="9" fill="#22d3ee"/><text x="30" y="-2" class="m" font-size="12" font-weight="700" fill="#22d3ee" letter-spacing="2">NOW</text><text x="30" y="20" class="s" font-size="17" fill="#e2e8f0">React &amp; modern JavaScript</text></g><g transform="translate(590,184)"><circle r="9" fill="#6366f1"/><text x="30" y="-2" class="m" font-size="12" font-weight="700" fill="#6366f1" letter-spacing="2">NEXT</text><text x="30" y="20" class="s" font-size="17" fill="#e2e8f0">Tailwind CSS &amp; TypeScript</text></g><g transform="translate(590,250)"><circle r="9" fill="#a855f7"/><text x="30" y="-2" class="m" font-size="12" font-weight="700" fill="#a855f7" letter-spacing="2">THEN</text><text x="30" y="20" class="s" font-size="17" fill="#e2e8f0">Next.js &amp; full-stack basics</text></g><g transform="translate(590,316)"><circle r="9" fill="#f472b6"/><text x="30" y="-2" class="m" font-size="12" font-weight="700" fill="#f472b6" letter-spacing="2">LATER</text><text x="30" y="20" class="s" font-size="17" fill="#e2e8f0">Node.js · MERN · Open-source PRs</text></g>
+
+</svg>
